@@ -1,0 +1,6 @@
+[17-Feb-2017 06:21:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hod61edo/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2113
+[23-Feb-2017 09:58:54 UTC] PHP Warning:  printf(): Too few arguments in /home/hod61edo/public_html/wp-admin/includes/plugin-install.php on line 235
+[23-Feb-2017 10:11:38 UTC] PHP Warning:  printf(): Too few arguments in /home/hod61edo/public_html/wp-admin/includes/plugin-install.php on line 235
+[23-Feb-2017 10:25:52 UTC] PHP Warning:  printf(): Too few arguments in /home/hod61edo/public_html/wp-admin/includes/plugin-install.php on line 235
+[18-Apr-2017 07:02:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hod61edo/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2113
+[18-Apr-2017 07:03:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hod61edo/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2113
